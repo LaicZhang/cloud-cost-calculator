@@ -1,5 +1,7 @@
 # 对象存储+CDN成本计算器
 
+发现缤纷云已经提供了工具[计算价格](https://tools.bitiful.com/prices/index.html )
+
 ## Features
 
 - 阿里云
